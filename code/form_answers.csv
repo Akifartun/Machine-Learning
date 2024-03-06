@@ -1,0 +1,108 @@
+date,sex,age,education,salary,fav,output
+06.01.2024 15:11:35,Kadin,19 - 25,Lisans,0 - 9000,Dizi / Film,Evet
+06.01.2024 15:11:55,Erkek,19 - 25,Lisans,30001 - 40000,Dizi / Film,Evet
+06.01.2024 15:14:52,Kadin,19 - 25,Lisans,0 - 9000,Kitap,Hayir
+06.01.2024 15:14:56,Erkek,19 - 25,Lisans,0 - 9000,Dizi / Film,Evet
+06.01.2024 15:15:05,Kadin,19 - 25,Lisans,0 - 9000,Dizi / Film,Hayir
+06.01.2024 15:21:06,Erkek,33 - 39,Lisans,30001 - 40000,Spor,Hayir
+06.01.2024 15:22:43,Erkek,26 - 32,Lisans,9001 - 18000,Spor,Evet
+06.01.2024 15:22:58,Erkek,19 - 25,Lisans,0 - 9000,Spor,Evet
+06.01.2024 15:26:22,Kadin,19 - 25,Lisans,0 - 9000,Kitap,Hayir
+06.01.2024 15:33:36,Erkek,19 - 25,Lisans,0 - 9000,Spor,Evet
+06.01.2024 15:36:29,Kadin,11 - 18,Ortaokul,0 - 9000,Oyun,Hayir
+06.01.2024 15:36:44,Erkek,19 - 25,Lisans,0 - 9000,Spor,Evet
+06.01.2024 15:38:56,Kadin,19 - 25,Lisans,0 - 9000,Dizi / Film,Hayir
+06.01.2024 15:39:00,Kadin,19 - 25,Lisans,0 - 9000,Kitap,Evet
+06.01.2024 15:44:50,Kadin,19 - 25,Lisans,0 - 9000,Kitap,Hayir
+06.01.2024 15:45:58,Erkek,19 - 25,Lisans,0 - 9000,Dizi / Film,Evet
+06.01.2024 15:47:34,Kadin,19 - 25,Lisans,0 - 9000,Dizi / Film,Evet
+06.01.2024 15:48:22,Erkek,19 - 25,Lisans,0 - 9000,Spor,Evet
+06.01.2024 15:48:33,Kadin,19 - 25,Lisans,18001 - 30000,Dizi / Film,Evet
+06.01.2024 15:48:36,Kadin,19 - 25,Lisans,0 - 9000,Dizi / Film,Hayir
+06.01.2024 15:48:43,Kadin,19 - 25,Lisans,9001 - 18000,Dizi / Film,Hayir
+06.01.2024 15:49:15,Kadin,19 - 25,Lisans,0 - 9000,Dizi / Film,Evet
+06.01.2024 15:50:04,Kadin,26 - 32,Lisans,0 - 9000,Dizi / Film,Hayir
+06.01.2024 15:50:31,Kadin,19 - 25,Lisans,9001 - 18000,Dizi / Film,Evet
+06.01.2024 15:51:04,Erkek,19 - 25,Lisans,0 - 9000,Oyun,Evet
+06.01.2024 15:56:46,Erkek,26 - 32,Lisans,9001 - 18000,Oyun,Evet
+06.01.2024 16:03:44,Erkek,26 - 32,Lisans,9001 - 18000,Dizi / Film,Evet
+06.01.2024 16:06:49,Erkek,39 <,Ortaokul,18001 - 30000,Spor,Evet
+06.01.2024 16:07:45,Erkek,19 - 25,Lisans,0 - 9000,Spor,Evet
+06.01.2024 16:11:13,Erkek,19 - 25,Lisans,0 - 9000,Spor,Evet
+06.01.2024 16:14:26,Erkek,19 - 25,Lisans,0 - 9000,Dizi / Film,Evet
+06.01.2024 16:15:57,Kadin,19 - 25,Lisans,0 - 9000,Dizi / Film,Evet
+06.01.2024 16:19:32,Erkek,19 - 25,Lisans,0 - 9000,Spor,Evet
+06.01.2024 16:21:12,Kadin,19 - 25,Lisans,0 - 9000,Dizi / Film,Evet
+06.01.2024 16:23:30,Kadin,19 - 25,Lisans,0 - 9000,Dizi / Film,Evet
+06.01.2024 16:24:14,Erkek,19 - 25,Lisans,0 - 9000,Kitap,Hayir
+06.01.2024 16:25:30,Erkek,19 - 25,Lisans,0 - 9000,Dizi / Film,Evet
+06.01.2024 16:27:29,Kadin,19 - 25,Lisans,0 - 9000,Dizi / Film,Hayir
+06.01.2024 16:27:59,Erkek,26 - 32,Lise,9001 - 18000,Spor,Hayir
+06.01.2024 16:30:20,Kadin,19 - 25,Lisans,9001 - 18000,Dizi / Film,Hayir
+06.01.2024 16:32:27,Erkek,11 - 18,Lisans,0 - 9000,Oyun,Evet
+06.01.2024 16:33:58,Erkek,39 <,Ilkokul,0 - 9000,Spor,Hayir
+06.01.2024 16:34:12,Kadin,39 <,Ilkokul,0 - 9000,Dizi / Film,Hayir
+06.01.2024 16:41:34,Kadin,19 - 25,On Lisans,0 - 9000,Dizi / Film,Hayir
+06.01.2024 16:43:10,Erkek,19 - 25,On Lisans,18001 - 30000,Dizi / Film,Hayir
+06.01.2024 16:48:57,Kadin,39 <,Ilkokul,0 - 9000,Dizi / Film,Hayir
+06.01.2024 16:49:06,Kadin,19 - 25,Lisans,0 - 9000,Dizi / Film,Hayir
+06.01.2024 16:52:03,Erkek,39 <,Lisans,18001 - 30000,Dizi / Film,Hayir
+06.01.2024 17:19:23,Erkek,11 - 18,Ortaokul,0 - 9000,Dizi / Film,Hayir
+06.01.2024 17:23:23,Erkek,39 <,Lisans,30001 - 40000,Spor,Evet
+06.01.2024 17:35:59,Kadin,33 - 39,Lisans,18001 - 30000,Dizi / Film,Evet
+06.01.2024 17:37:54,Kadin,19 - 25,Lisans,0 - 9000,Dizi / Film,Evet
+06.01.2024 17:38:28,Kadin,26 - 32,Yuksek Lisans,9001 - 18000,Dizi / Film,Evet
+06.01.2024 17:40:37,Erkek,19 - 25,Lisans,0 - 9000,Spor,Evet
+06.01.2024 17:40:55,Kadin,19 - 25,Lisans,9001 - 18000,Dizi / Film,Evet
+06.01.2024 17:42:51,Kadin,19 - 25,Lisans,18001 - 30000,Dizi / Film,Evet
+06.01.2024 17:43:55,Kadin,26 - 32,On Lisans,18001 - 30000,Dizi / Film,Hayir
+06.01.2024 17:45:52,Kadin,39 <,Ilkokul,9001 - 18000,Dizi / Film,Hayir
+06.01.2024 17:46:25,Kadin,39 <,Yuksek Lisans,30001 - 40000,Dizi / Film,Hayir
+06.01.2024 17:47:02,Kadin,26 - 32,On Lisans,18001 - 30000,Dizi / Film,Hayir
+06.01.2024 17:47:19,Kadin,39 <,Ilkokul,0 - 9000,Dizi / Film,Hayir
+06.01.2024 17:50:22,Kadin,33 - 39,Lisans,30001 - 40000,Dizi / Film,Evet
+06.01.2024 17:51:58,Kadin,19 - 25,Lisans,0 - 9000,Dizi / Film,Evet
+06.01.2024 17:58:06,Kadin,19 - 25,Lisans,0 - 9000,Dizi / Film,Hayir
+06.01.2024 18:02:03,Kadin,39 <,Ortaokul,9001 - 18000,Dizi / Film,Hayir
+06.01.2024 18:07:31,Kadin,39 <,Lise,18001 - 30000,Dizi / Film,Hayir
+06.01.2024 18:13:10,Erkek,19 - 25,Yuksek Lisans,0 - 9000,Spor,Evet
+06.01.2024 18:14:07,Kadin,33 - 39,Lise,9001 - 18000,Dizi / Film,Hayir
+06.01.2024 18:16:11,Erkek,33 - 39,Lisans,30001 - 40000,Dizi / Film,Evet
+06.01.2024 18:17:05,Kadin,39 <,Ilkokul,0 - 9000,Dizi / Film,Hayir
+06.01.2024 18:28:14,Kadin,19 - 25,On Lisans,0 - 9000,Dizi / Film,Evet
+06.01.2024 18:29:08,Kadin,19 - 25,Lisans,0 - 9000,Dizi / Film,Evet
+06.01.2024 18:40:18,Kadin,33 - 39,Lisans,18001 - 30000,Dizi / Film,Hayir
+06.01.2024 18:41:52,Erkek,19 - 25,Lisans,0 - 9000,Spor,Evet
+06.01.2024 18:45:37,Kadin,33 - 39,Yuksek Lisans,18001 - 30000,Kitap,Hayir
+06.01.2024 18:47:14,Kadin,33 - 39,Yuksek Lisans,18001 - 30000,Kitap,Hayir
+06.01.2024 18:55:10,Erkek,19 - 25,Lisans,0 - 9000,Oyun,Evet
+06.01.2024 19:01:15,Erkek,39 <,Lisans,9001 - 18000,Spor,Evet
+06.01.2024 19:04:57,Erkek,26 - 32,On Lisans,18001 - 30000,Spor,Hayir
+06.01.2024 19:09:55,Erkek,11 - 18,Ortaokul,0 - 9000,Oyun,Evet
+06.01.2024 19:16:24,Kadin,19 - 25,Lisans,0 - 9000,Dizi / Film,Hayir
+06.01.2024 19:17:06,Erkek,26 - 32,Lisans,0 - 9000,Dizi / Film,Evet
+06.01.2024 19:27:45,Kadin,19 - 25,Lisans,0 - 9000,Dizi / Film,Hayir
+06.01.2024 19:36:35,Erkek,19 - 25,Lisans,18001 - 30000,Dizi / Film,Evet
+06.01.2024 19:51:22,Kadin,19 - 25,Lisans,0 - 9000,Kitap,Hayir
+06.01.2024 20:03:37,Kadin,19 - 25,Lisans,0 - 9000,Dizi / Film,Evet
+06.01.2024 20:29:24,Kadin,19 - 25,Lisans,0 - 9000,Dizi / Film,Evet
+06.01.2024 20:36:11,Kadin,19 - 25,Lisans,18001 - 30000,Dizi / Film,Hayir
+06.01.2024 20:41:38,Kadin,26 - 32,Lisans,18001 - 30000,Kitap,Hayir
+06.01.2024 21:08:59,Kadin,19 - 25,Lisans,0 - 9000,Dizi / Film,Evet
+06.01.2024 22:54:58,Erkek,26 - 32,Lisans,30001 - 40000,Dizi / Film,Evet
+07.01.2024 07:27:47,Erkek,19 - 25,Lisans,9001 - 18000,Dizi / Film,Evet
+07.01.2024 12:51:49,Kadin,19 - 25,Lisans,0 - 9000,Dizi / Film,Hayir
+07.01.2024 12:52:22,Kadin,19 - 25,On Lisans,0 - 9000,Oyun,Hayir
+07.01.2024 12:59:59,Kadin,19 - 25,Lisans,0 - 9000,Dizi / Film,Evet
+07.01.2024 13:08:37,Erkek,19 - 25,Lisans,0 - 9000,Dizi / Film,Evet
+07.01.2024 13:25:32,Kadin,19 - 25,Lisans,0 - 9000,Kitap,Hayir
+07.01.2024 13:30:02,Kadin,19 - 25,Lisans,0 - 9000,Dizi / Film,Hayir
+07.01.2024 14:42:44,Erkek,19 - 25,Lisans,9001 - 18000,Dizi / Film,Evet
+07.01.2024 14:58:18,Erkek,19 - 25,Lisans,0 - 9000,Spor,Evet
+07.01.2024 14:59:49,Kadin,19 - 25,Lisans,0 - 9000,Dizi / Film,Evet
+07.01.2024 15:32:09,Kadin,19 - 25,Lisans,0 - 9000,Dizi / Film,Hayir
+07.01.2024 16:49:18,Kadin,19 - 25,Lisans,0 - 9000,Dizi / Film,Evet
+07.01.2024 23:27:02,Erkek,19 - 25,Lisans,18001 - 30000,Oyun,Hayir
+08.01.2024 09:21:14,Erkek,33 - 39,Lise,30001 - 40000,Spor,Evet
+08.01.2024 10:39:31,Kadin,19 - 25,Lisans,0 - 9000,Dizi / Film,Evet
+08.01.2024 12:46:38,Kadin,19 - 25,Lisans,0 - 9000,Dizi / Film,Evet
