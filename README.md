@@ -1,4 +1,15 @@
 # Predicting the Use of Pirated Publications
+- [Predicting the Use of Pirated Publications](#predicting-the-use-of-pirated-publications)
+  - [1. Introduction](#1-introduction)
+    - [1.1 Background](#11-background)
+    - [1.2 Survey Participation](#12-survey-participation)
+    - [1.3 Collected Data](#13-collected-data)
+  - [2. Data Preprocessing](#2-data-preprocessing)
+  - [3. Model Training](#3-model-training)
+  - [4. Model Evaluation](#4-model-evaluation)
+  - [5. Cross-Validation](#5-cross-validation)
+  - [6. Results](#6-results)
+  - [7. Conclusion](#7-conclusion)
 
 ## 1. Introduction
 
